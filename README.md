@@ -322,7 +322,7 @@ Arrays · Trees · Graphs · DP
 <!-- This block is generated. Do not edit by hand. -->
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
-<tr><td><a href="https://github.com/arpit797/Database"><b>Database</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white" alt="C++"/></td><td><sub>2026-09-15</sub></td></tr>
+<tr><td><a href="https://github.com/arpit797/Database"><b>Database</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white" alt="C++"/></td><td><sub>2026-09-16</sub></td></tr>
 <tr><td><a href="https://github.com/arpit797/DSA"><b>Data Structures & Algorithms</b></a></td><td>Collection of core data structures and algorithmic problem solutions in C++ & JavaScript</td><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white" alt="C++"/></td><td><sub>2026-09-13</sub></td></tr>
 <tr><td><a href="https://github.com/arpit797/assigment"><b>Web Dev Assignments</b></a></td><td>Frontend and backend development assignments, responsive layouts, and modern web experi…</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white" alt="JavaScript"/></td><td><sub>2026-09-03</sub></td></tr>
 <tr><td><a href="https://github.com/arpit797/Major-Project"><b>Wanderlust</b></a> · <a href="https://major-project-arpitt45.vercel.app">live</a></td><td>Wanderlust</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white" alt="JavaScript"/></td><td><sub>2026-08-20</sub></td></tr>
